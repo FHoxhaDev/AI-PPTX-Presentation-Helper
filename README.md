@@ -19,7 +19,7 @@ Follow these steps to run SlideTalker locally:
 ```bash
 git clone https://github.com/your-username/slide-talker.git
 
-**Installation:**
+Installation:
 
 cd slide-talker
 npm install
